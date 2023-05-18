@@ -1,3 +1,7 @@
+![Fancy logo](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/blob/main/img/ujDarkLogo.png#gh-dark-mode-only)
+
+![Fancy logo]([./light.png](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/blob/main/img/ujLightLogo.png)#gh-light-mode-only)
+
 # TQED-experiment
 
 This repository contains the TQED (Testing and Quality Engineering for Developers) experiment project by the Software Engineering Jagiellonian team. TQED is a comprehensive experiment focused on testing and quality engineering practices for software developers.
