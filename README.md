@@ -1,6 +1,6 @@
 ![Fancy logo](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/blob/main/img/ujDarkLogo.png#gh-dark-mode-only)
 
-![Fancy logo]([./light.png](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/blob/main/img/ujLightLogo.png)#gh-light-mode-only)
+![Fancy logo](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/blob/main/img/ujLightLogo.png#gh-light-mode-only)
 
 # TQED-experiment
 
