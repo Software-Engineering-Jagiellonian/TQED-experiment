@@ -7,7 +7,7 @@ This repository contains the TQED (Testing and Quality Engineering for Developer
 The repository includes the following:
 
 - **Documentation**: Detailed instuctions for students about the TQED experiment, its objectives, methodology, and guidelines [link](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/tree/main/Bankomat-master).
-- **Source Code**: The source code for the TQED experiment implementation.
+- **Experiments**: The source code for the TQED experiment implementation. FOr each student [link](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/tree/main/Groups) and cross experiment where test and source code where crosed between each student pair [link](https://github.com/Software-Engineering-Jagiellonian/TQED-experiment/tree/main/Groups).
 - **Examples**: A collection of examples and sample code related to testing and quality engineering practices.
 - **Resources**: Additional resources, such as research papers and articles, related to the TQED experiment.
 
